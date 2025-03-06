@@ -10,8 +10,8 @@ This tutorial covers the prerequisites and installation process for setting up a
 
 - A VPN (Proton VPN)
 - Microsoft Azure (Virtual Machines/Compute)
+-VM located in Central US.
 - Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
